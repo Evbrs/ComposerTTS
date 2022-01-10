@@ -1,0 +1,7 @@
+{
+    "name": "vendor/evbrs",
+    "description": "create a website",
+    "require": {
+        "symfony/webpack-encore-bundle": "^1.12"
+    }
+}
